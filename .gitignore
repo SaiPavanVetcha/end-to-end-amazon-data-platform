@@ -1,0 +1,24 @@
+# --- Data Files ---
+# Ignore actual data files (keep your repo light)
+*.xlsx
+*.json
+*.zip
+*.parquet
+
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtualenv/
+venv/
+env/
+.env
+
+# --- Operating System Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Power BI ---
+# Ignore temporary backup files created by Power BI
+*.pbit
+*.pbi.bak
