@@ -135,6 +135,7 @@ The dashboard provides insights into:
 ![Fulfillment Analysis](dashboard/screenshot3.png)
 
 # 📂 Project Structure
+
 ```
 end-to-end-amazon-data-platform/
 │
@@ -155,6 +156,10 @@ end-to-end-amazon-data-platform/
 │   ├── screenshot1.png
 │   ├── screenshot2.png
 │   └── screenshot3.png
+|
+├── docs/
+│   ├── End-to-End-Amazon-Data-Platform Architecture.drawio
+│   └── End-to-End-Amazon-Data-Platform Architecture.png
 │
 ├── .gitignore
 ├── requirements.txt
