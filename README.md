@@ -31,6 +31,12 @@ This project is a comprehensive **data platform** designed to ingest, process, a
 
 ---
 
+## Architecture
+
+![Architecture](docs/End-to-End-Amazon-Data-Platform%20Architecture.png)
+
+---
+
 # 🏗️ The 7-Stage Pipeline
 
 The project is structured into **seven sequential notebooks**, ensuring a **modular and scalable ETL process**.
